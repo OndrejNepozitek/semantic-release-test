@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.1](https://github.com/OndrejNepozitek/semantic-release-test/compare/v1.0.0...v1.0.1) (2022-12-19)
+
+
+### Bug Fixes
+
+* added chore type ([3772b8c](https://github.com/OndrejNepozitek/semantic-release-test/commit/3772b8c4a23861a858fd3027bdc2200d9d34f650))
+* added text ([175dad7](https://github.com/OndrejNepozitek/semantic-release-test/commit/175dad7b3bbbc9cc91cee8d5bf2b3ed6f5821edb))
+
+
+### Miscellaneous
+
+* added text ([428ca1b](https://github.com/OndrejNepozitek/semantic-release-test/commit/428ca1bd43421c3ebf37caccbe7fa69f7df42d86))
+
 ## 1.0.0 (2022-12-19)
 
 
